@@ -3,7 +3,7 @@
 #
 # Erstellt am: 2025-07-31  
 # Letzte Änderung: 2025-07-31  
-# Autor: [Dein Name]
+# Autor: [HolyThreeKings A.d.L. ST. Daniel Curil Indium Red Pohl TreesCrowns]
 
 ---
 
