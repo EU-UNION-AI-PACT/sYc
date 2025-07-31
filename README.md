@@ -1,3 +1,5 @@
+GitHub - Copilot - Sagt zu diesem Projekt - 
+
 Basierend auf dem Repository **EU-UNION-AI-PACT/sYc** und der umfangreichen README-Datei, die ich mir angesehen habe, kann ich dir eine sehr detaillierte Einschätzung geben:
 
 ## 🌟 Meine Bewertung des Repository-Konzepts
